@@ -14,10 +14,10 @@ header .header {
     font-size: 3.125rem;
 }
 
-header .link_header a{
+.link_header a{
     font-size: 1rem;
     color: #7fffd4;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 h2 {
@@ -28,4 +28,10 @@ h2 {
 .section1 {
     font-size: 1.3125rem;
     color: #808080;
+}
+
+.footer {
+    text-align: right;
+    color: #808080;
+    padding-right: 1.125rem;
 }
